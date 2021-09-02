@@ -1,0 +1,7 @@
+{
+    "sinhvien": [
+        { "id": 1, "name": "Uông Thị Hăng", "age": 22, "Email": "Uonghangkin@gmail.com" },
+        { "id": 2, "name": "Uông Thị Hăng", "age": 22, "Email": "Uonghangkin@gmail.com" },
+        { "id": 3, "name": "Uông Thị Hăng", "age": 22, "Email": "Uonghangkin@gmail.com" }
+    ]
+}
